@@ -1,5 +1,6 @@
  # WeatherNow App || Hackathon2_Team_Code.Street
-< img src="![Screenshot (WeatherNow)](https://github.com/Taylor-Carr/WeatherNow---hackathon2/assets/152321059/d67b3bff-4061-4ae1-9992-d92fb734b7b0)"width="125px" height="65px">
+< img src="![Light Modus](https://github.com/Taylor-Carr/WeatherNow---hackathon2/assets/152321059/1cc082c9-5aad-4532-8b78-1fd816d737bd)
+"width="125px" height="65px">
 
 # Overview
 This Hackathon2 project is about building a web application to show a weather forecast using weather API from external services like https://openweathermap.org . The user should be able to search for a specific location and toggle displaying the data.To use the app, place a name of the city and click on search.Alternatively click of the botton Weather Now to have Weather information of your current location.
@@ -20,7 +21,7 @@ Make sure you have the following installed: - Web browser - Code editor (e.g., V
   < img src="![WeatherNow_Wireframe](https://github.com/Taylor-Carr/WeatherNow---hackathon2/assets/152321059/705eeef3-a0db-4622-9091-3d4ec15e20ac)"width="125px" height="65px"> 
  
 
-# Userstories
+# Userstorie
 
 - As a user, I want a user-friendly app or website that allows me to quickly find the weather in my current location or city of my choice all over the world.  
 
@@ -75,6 +76,7 @@ During the validation process, errors were detected, signifying areas for improv
 
 # Responsive Test
 
+<img src="![Weather](https://github.com/Taylor-Carr/WeatherNow---hackathon2/assets/152321059/e49afeb2-dc22-495f-bc57-1a338726f367)"width="125px" height="65px">
 
 # Issues Fixed
 
@@ -85,7 +87,7 @@ During the validation process, errors were detected, signifying areas for improv
   Adjusted font sizes, margins, and paddings for better responsiveness.Made the layout more flexible using flex containers. djusted media queries for better responsiveness on various screen sizes.
    
 -  Javascript:
-  
+-  
 -   File Cleanup:
   Removed unnecessary and duplicated styles.Ensured proper indentation and formatting for better code readability.
 
@@ -100,7 +102,7 @@ Install 'Live Server' Extension and open the website live
  Readme (uploading images)
 
 # Credits
-The links for were copied from Google search. The photos used in this site were obtained from Unsplash and Google images.
+The photos used in this site were obtained from Unsplash and Google images.
 We received inspiration for this project from Hackathon2´s example Project 4. 
 
 # Acknowledgments
